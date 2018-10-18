@@ -24,4 +24,4 @@ Visando manter a equipe informada em relação as funcionalidades existentes, e 
 - Rede de Parceiros (Em avaliação, Aguardando Dados da Rede, Consultar a Rede)
 
 
-Esses serão nossos focos em 2018
+Este sera nosso foco em 2018
